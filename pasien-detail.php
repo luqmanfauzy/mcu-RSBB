@@ -160,7 +160,7 @@ tr {
      HEADER RS
 ================================ -->
 <div class="header-rs">
-    <img src="assets/logo RSBB Baru.jpg" alt="Logo RSBB" class="logo-rs">
+    <img src="assets/LOGO RSBB 2026.png" alt="Logo RSBB" class="logo-rs">
     <div class="title-rs">
         <h1>Rumah Sakit Balikpapan Baru</h1>
     </div>

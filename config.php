@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$db   = "data_mcu";            // ganti sesuai nama database Anda
+$db   = "data_mcu";            
 $user = "root";           // ganti sesuai user DB
 $pass = "";               // ganti sesuai password
 $charset = "utf8mb4";
