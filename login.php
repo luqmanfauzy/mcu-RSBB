@@ -149,7 +149,7 @@ button:hover {
 
 <div class="login-card">
 
-    <img src="assets/logo RSBB Baru.jpg" alt="Logo RSBB" class="logo">
+    <img src="assets/LOGO RSBB 2026.png" alt="Logo RSBB" class="logo">
 
     <h2>Login Data MCU</h2>
     <div class="subtitle">Rumah Sakit Balikpapan Baru</div>
